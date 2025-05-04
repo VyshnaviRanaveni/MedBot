@@ -1,0 +1,37 @@
+{
+    "fever": {
+        "outcome": "Possible flu, COVID-19, or infection.",
+        "suggestion": "Monitor temperature, stay hydrated, and rest.",
+        "food": "Eat light meals, drink fluids.",
+        "rest": "Bed rest recommended.",
+        "tablets": "Paracetamol, Ibuprofen"
+    },
+    "cough": {
+        "outcome": "Could be cold, bronchitis, or allergies.",
+        "suggestion": "Use cough syrup, avoid cold drinks.",
+        "food": "Warm fluids, honey, and ginger tea.",
+        "rest": "Normal rest is sufficient.",
+        "tablets": "Cough syrup, Antihistamines"
+    },
+    "headache": {
+        "outcome": "May be due to stress, dehydration, or tension.",
+        "suggestion": "Rest in a quiet place, drink water.",
+        "food": "Avoid caffeine and processed foods.",
+        "rest": "Short naps or early sleep recommended.",
+        "tablets": "Aspirin, Ibuprofen, Paracetamol"
+    },
+    "itching": {
+        "outcome": "Allergy or skin infection.",
+        "suggestion": "Apply anti-itch cream, avoid allergens.",
+        "food": "Avoid spicy foods, stay hydrated.",
+        "rest": "No specific rest required.",
+        "tablets": "Cetirizine, Hydrocortisone"
+    },
+    "diabetes": {
+        "outcome": "Condition with high blood sugar levels.",
+        "suggestion": "Monitor blood sugar, regular exercise.",
+        "food": "Low-carb meals, high fiber.",
+        "rest": "Adequate sleep and stress management.",
+        "tablets": "Metformin, Insulin"
+    }
+}
